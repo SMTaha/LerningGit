@@ -1,3 +1,1 @@
-# LerningGit
-## Learning in Saylani
-### Addition on machine 
+#Editing Readme.md
